@@ -6,7 +6,7 @@ Färger för svenska partier att använda ihop med t.ex. bootstrap för att sät
 Alla css-klasserna för partierna har mönstret `party-partibeteckning`
 
 Till exempel: 
-```
+```html
 <span class="badge party-s">S</span>
 ```
 ### Dokumentation
