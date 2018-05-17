@@ -2,6 +2,13 @@
 
 Färger för svenska partier att använda ihop med t.ex. bootstrap för att sätta färg på badges.
 
+## Exempel
+Alla css-klasserna för partierna har mönstret `party-partibeteckning`
+
+Till exempel: 
+```
+<span class="badge party-s">S</span>
+```
 ### Dokumentation
 
 https://borsna.github.io/swedish-party-colors
