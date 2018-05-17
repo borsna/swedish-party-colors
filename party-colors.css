@@ -1,0 +1,228 @@
+@charset "utf-8";
+
+
+/*
+m	Moderaterna
+*/
+.party-m{
+  background: #1B49DD;
+  color: white;
+}
+
+
+/*
+c	Centerpartiet
+*/
+.party-c{
+  background: #009933;
+  color: white;
+}
+
+
+/*
+l	Liberalterna
+fp	Folkpartiet
+boa	Borgerligt Alternativ
+*/
+.party-l,
+.party-fp,
+.party-boa{
+  background: #6BB7EC;
+  color: white;
+}
+
+
+/*
+kd	Kristdemokraterna
+*/
+.party-kd{
+  background: #231977;
+  color: white;
+}
+
+
+/*
+mp	Miljöpartiet
+hkv	Hisingens Kommunala Väljare
+pmm	Partiet för miljöskydd och medbestämmande
+*/
+.party-mp,
+.party-hkv,
+.party-pmm{ 
+  background: #83CF39;
+  color: white;
+}
+
+
+/*
+s	Socialdemokraterna
+*/
+.party-s{
+  background: #EE2020;
+  color: white;
+}
+
+
+/*
+v	Vänsterpartiet
+*/
+.party-v{
+    background: #AF0000;
+    color: white;
+}
+
+
+/*
+al	Arbetarlistan
+ap	Arbetarpartiet
+kp	Kommunistiska Partiet
+rs	Rättvisepartiet Socialisterna
+soc	Socialistiska Partiet
+stor	Storforsbygdens Väl
+*/
+.party-al,
+.party-ap,
+.party-kp,
+.party-rs,
+.party-soc,
+.party-stor{
+  background: #990000;
+  color: white;
+}
+
+
+/*
+sd	Sverigedemokraterna
+alp	Allianspartiet
+*/
+.party-sd,
+.party-alp{
+  background: #DDDD00;
+  color: white;
+}
+
+
+/*
+nd	Nationaldemokraterna
+*/
+.party-nd{
+  background: #FF9900;
+  color: white;
+}
+
+
+/*
+pp	Piratpartiet
+*/
+.party-pp{
+  background: #572B85;
+  color: white;
+}
+
+
+/*
+spi	Sveriges Pensionärers Intresseparti
+*/
+.party-spi{
+  background: #FFFF99;
+  color: black;
+}
+
+
+/*
+bv	Burlövs Väl
+h	Humlorna
+kf	Kristianstadsbygdens Framtid
+ns	Norrbottens Sjukvårdsparti
+nyd	Ny Demokrati
+sp	Samernas Väl
+sv	Sjukvårdspartiet
+svp	Svenskarnas parti
+*/
+.party-bv,
+.party-h,
+.party-kf,
+.party-ns,
+.party-nyd,
+.party-sp,
+.party-sv,
+.party-svp{
+  background: yellow;
+  color: black;
+}
+
+
+/*
+alt	Alvesta Alternativet / Alternativet i Bromölla / Alternativet (Jokkmokks kommun) / Alternativet (Ljungby) / Alternativet i Markaryds kommun / Alternativet i Älmhults kommun
+be	Bergspartiet
+frp	Framstegspartiet
+gm	Grums Medborgarparti
+kxp	Kalixpartiet
+l-p	Lokala partiet i Heby kommun
+nl	Nackalistan
+sjvv	Samelistan
+sl	Sjukvårdspartiet i Värmland
+stockp	Stockholmspartiet
+vh	Folkets Röst - Vox Humana
+*/
+.party-alt,
+.party-be,
+.party-frp,
+.party-gm,
+.party-kxp,
+.party-l-p,
+.party-nl,
+.party-sjvv,
+.party-sl,
+.party-stockp,
+.party-vh{
+  background: orange;
+  color: white;
+}
+
+
+/*
+uus	Uppsala Universitets Studenter
+*/
+.party-uus{
+  background: #C4158C;
+  color: white;
+}
+
+
+/*
+fi  Feministiskt initiativ
+*/
+.party-fi{
+  background: #cd1b68;
+  color: white;
+}
+
+
+/*
+fno	Fria Norrland
+frk	Frihetliga Kommunalfolket
+hpp	Härjedalens Pensionärsparti
+lid	Lidingöpartiet
+lod	Lindesbergs Kommuns Obundna Demokrater
+ml	Miljöradikalerna i Lekeberg
+opa	Omsorgspartiet i Arboga
+se4v	Stoppa E4 Väst - Kulturpartiet
+SoS	Solidaritet och Samverkan
+up	Ung Profil
+yp	Ystadspartiet
+*/
+.party-fno,
+.party-frk,
+.party-hpp,
+.party-lid,
+.party-lod,
+.party-ml,
+.party-opa,
+.party-se4v,
+.party-SoS,
+.party-up,
+.party-yp{
+  background: gray;
+  color: white;
+}
